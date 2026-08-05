@@ -1,0 +1,8 @@
+Project Title:
+Real-Time Anomaly Detection in Financial Transactions
+
+GitHub Repository:
+https://github.com/moinintikhab24-sys/Real-Time-Anomaly-Detection
+
+Author:
+Moin Intikhab
